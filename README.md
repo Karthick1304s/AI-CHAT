@@ -33,10 +33,10 @@ An AI-powered chat application built using **React**, **Spring Boot**, and **Gem
 ```bash
 git clone https://github.com/Karthick1304s/AI-CHAT
 
-cd frontend
+cd chat-frontend
 npm install
-npm start
+npm run dev
 
-cd backend
+cd chat
 mvn spring-boot:run
 
