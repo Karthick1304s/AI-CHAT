@@ -31,7 +31,7 @@ An AI-powered chat application built using **React**, **Spring Boot**, and **Gem
 ### Clone the Repository
 
 ```bash
-git clone
+git clone https://github.com/Karthick1304s/AI-CHAT
 
 cd frontend
 npm install
